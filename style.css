@@ -27,7 +27,7 @@ body {
 .nft-image {
     height: 300px;
     width: 100%;
-    background-image: url('images/image-equilibrium.jpg');
+    background-image: url('https://github.com/outHereSam/nft-preview-card/blob/main/images/image-equilibrium.jpg?raw=true');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -44,7 +44,7 @@ body {
     width: 100%;
     height: 100%;
     border-radius: 8px;
-    content: url('images/icon-view.svg');
+    content: url('https://raw.githubusercontent.com/outHereSam/nft-preview-card/5934f873b7c1a5b78d1292290050a61af7ed7320/images/icon-view.svg');
     background-color: hsla(178, 100%, 50%, 0.50);
     display: flex;
     justify-content: center;
@@ -126,7 +126,7 @@ body {
     height: 30px;
     border: solid 2px hsl(0, 0%, 100%);
     border-radius: 50%;
-    background-image: url('images/image-avatar.png');
+    background-image: url('https://github.com/outHereSam/nft-preview-card/blob/main/images/image-avatar.png?raw=true');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
